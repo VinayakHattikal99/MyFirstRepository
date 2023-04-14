@@ -1,0 +1,16 @@
+.purple{
+	background:607D8B;
+
+}
+
+body{
+	background:black;
+}
+ .section{
+	 height: 500px;
+    background-repeat: no-repeat;
+    background-size: 1600px 200px;
+    background-image: url("img/note-home.jpg");
+    color: black;
+
+}
